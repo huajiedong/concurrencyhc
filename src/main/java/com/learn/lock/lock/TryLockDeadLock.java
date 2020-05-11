@@ -1,4 +1,4 @@
-package com.learn.lock;
+package com.learn.lock.lock;
 
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
